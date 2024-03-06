@@ -1,6 +1,6 @@
 **Cipher** is a music streaming platform designed for independent artists and their lovely fans.
 
-**What can you do on **Cipher**?**
+**What can you do on Cipher?**
 
 Artists: Upload your music directly, without distributors. Keep full control and connect with your fans.
 
@@ -8,13 +8,13 @@ Fans: Discover fresh sounds, support independent artists, and stay informed abou
 
 Why choose **Cipher**?
 
-Direct Uploads: Skip the distributor and keep creative control. Artist-Fan Connection: Build relationships with your biggest supporters. Monetization (Future): Earn from your music as the platform grows.
+Direct Uploads: Skip the distributor and keep creative control. Artist-Fan Connection: Build relationships with your biggest supporters.
 
 Daily Task
 
 Day 1:
 
-API Creation: I will create Post and Get API. Will test those API.
+API Creation: I will create Post and Get API.
 
  Data Modeling: I will Try To Define the data structure for storing music information, user accounts, and other relevant data.
 
